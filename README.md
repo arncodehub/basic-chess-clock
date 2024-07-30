@@ -28,6 +28,7 @@ There is an arrow pointing to whose clock is currently active. Press <SPACE> whe
 Once a player is under 10 seconds, a decimal digit after the seconds place will pop up.
 Once a player is under 1 second, a second decimal digit after the seconds place will pop up.
 Once a player is out of time, it will say *00:00.00* in RED. This means that player has lost on time.
+
 *In chess, sometimes running out of time results in a draw instead of a loss, if the other player has insufficient material to checkmate.*
 
 The arrow also flips after each clock switch or <SPACE> press.
