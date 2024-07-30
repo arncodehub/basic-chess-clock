@@ -2,6 +2,7 @@
 A simple chess clock.
 
 **Features**
+
 When you run the Python script, it will first ask you if you want to flip Black's clock, press <ENTER> to say 'no'.
 Typing anything before pressing <ENTER> will flip Black's clock vertically and horizontally.
 
